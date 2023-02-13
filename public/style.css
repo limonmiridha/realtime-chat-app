@@ -59,12 +59,12 @@ textarea {
   position: relative;
 }
 .incoming {
-  background: #8f8be8;
+  background: #2c2c2d;
   color: #fff;
 }
 .outgoing {
-  background: #e9eafd;
-  color: #787986;
+  background: #2d83ec;
+  color: #ffffff;
   margin-left: auto;
 }
 .message h4 {
